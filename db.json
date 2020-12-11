@@ -1,0 +1,160 @@
+{
+  "data": {
+    "2020-02": {
+      "Month": "2020-02",
+      "Shelved": 12,
+      "Cancelled": 3646,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 23,
+      "Active": 5635,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-03": {
+      "Month": "2020-02",
+      "Shelved": 14,
+      "Cancelled": 4551,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 16,
+      "Active": 7334,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-01": {
+      "Month": "2020-02",
+      "Shelved": 8,
+      "Cancelled": 3884,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 16,
+      "Active": 6209,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-06": {
+      "Month": "2020-02",
+      "Shelved": 12,
+      "Cancelled": 2300,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 17,
+      "Active": 7031,
+      "Backlog Created": 5,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-07": {
+      "Month": "2020-02",
+      "Shelved": 12,
+      "Cancelled": 2838,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 13,
+      "Active": 9543,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-04": {
+      "Month": "2020-02",
+      "Shelved": 19,
+      "Cancelled": 3649,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 17,
+      "Active": 8322,
+      "Backlog Created": 3,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-05": {
+      "Month": "2020-02",
+      "Shelved": 10,
+      "Cancelled": 3011,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 9,
+      "Active": 8281,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-08": {
+      "Month": "2020-02",
+      "Shelved": 16,
+      "Cancelled": 2548,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 12,
+      "Active": 9233,
+      "Backlog Created": 1,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2019-12": {
+      "Month": "2020-02",
+      "Shelved": 9,
+      "Cancelled": 2920,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 2,
+      "Active": 4035,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-12": {
+      "Month": "2020-02",
+      "Shelved": 5,
+      "Cancelled": 143,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 37,
+      "Active": 3687,
+      "Backlog Created": 0,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-11": {
+      "Month": "2020-02",
+      "Shelved": 16,
+      "Cancelled": 695,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 30,
+      "Active": 8030,
+      "Backlog Created": 5,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-09": {
+      "Month": "2020-02",
+      "Shelved": 18,
+      "Cancelled": 1652,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 14,
+      "Active": 7784,
+      "Backlog Created": 1,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    },
+    "2020-10": {
+      "Month": "2020-02",
+      "Shelved": 12,
+      "Cancelled": 1295,
+      "Backlog Dismissed": 0,
+      "Awaiting activation": 13,
+      "Active": 11918,
+      "Backlog Created": 6,
+      "Backlog Completed": 0,
+      "Backlog Error": 0,
+      "Unshelved": 0
+    }
+  }
+}
